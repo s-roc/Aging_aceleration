@@ -1,4 +1,4 @@
-# Aging_aceleration
+# Aging aceleration pipeline
 
 This set of codes was used to process public multiomic data and to estimate chronological and molecular DNA (mDNA) methylation clocks.
 
